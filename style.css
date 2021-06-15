@@ -20,3 +20,5 @@ ul {
   width: 25%;
   height: auto;
 }
+
+.center { margin: 0 auto; width: 400px; }
